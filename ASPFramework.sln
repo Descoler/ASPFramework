@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPFramework", "ASPFramework\ASPFramework.csproj", "{FD72B87B-7D97-45B6-8BBE-6281E0FEF4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD72B87B-7D97-45B6-8BBE-6281E0FEF4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD72B87B-7D97-45B6-8BBE-6281E0FEF4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD72B87B-7D97-45B6-8BBE-6281E0FEF4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD72B87B-7D97-45B6-8BBE-6281E0FEF4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC91E45-858F-4C20-B43C-167DE66D1E34}
+	EndGlobalSection
+EndGlobal
